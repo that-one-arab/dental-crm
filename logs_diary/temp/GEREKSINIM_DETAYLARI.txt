@@ -1,0 +1,30 @@
+GELIR/GIDER:
+    - İsteğe bağlı, yeni gelir veya gider eklenebilecektir.
+    - Gelir/gider form detaylar:
+        Gelir/Gider ismi
+        Tutarı
+        Tarihi
+        Açıklaması
+    olarak belirtilecektir.
+    - Gelir/Gider araması, tarih aralığı araması ile gerçekleşecektir.
+    - Arama yapıldıktan sonra, arama sonuçları tabloda gösterilecektir.
+    - Tablo detayları:
+        Gelir/Gider ismi
+        Tutar
+        Tarihi
+        Tür
+    olarak belirtilecektir.
+
+KASA:
+    - Kasa ekranı, sadece belirtilmiş gün, veya tarih aralığın detaylarını gösterecektir, herhangi bir ekleme, düzeltme veya silme işlemi olmayacaktır.
+    - Kasa detay araması, tarih aralığı araması ile gerçekleşecektir.
+    - O tarih arasındaki giriş yapılan gider, gelir ve yapılan tedavilerin detaylarını alarak, automatik bir hesaplama yapılacaktır.
+    - Aramanın sonuçları, formda gösterilecektir:
+    - Form detayları:
+        Gelir toplamı
+        Gider toplamı
+        Doktor X Tedavi toplamı
+        Doktor Y Tedavi toplamı
+        Genel toplamı
+    olarak belirtilecektir.
+

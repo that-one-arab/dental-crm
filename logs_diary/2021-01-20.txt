@@ -1,0 +1,2 @@
+- Created a working DnD for appointments that corresponds for today (will create selectable day, week and month)
+- (Will create a Gider/Gelir page template, and a Kasa page template)
